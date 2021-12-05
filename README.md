@@ -1,1 +1,3 @@
 # World_Weather_Analysis
+## Overview
+The purpose of this assigment was to create a travel itinerary based on weather constraints. This project was also able to further familiarize ourselves with APIs. The random number generator was used to generate a long list of random latitudes and longitudes. The OpenWeatherMap API was used to find the weather conditions for these coordinates. The data was filtered to only show places that had weather conditions the client wanted, from 75 to 90 degrees. The GoogleMaps API was then utilized to find the closest hotels to these locations on a map. Four cities were then chosen, and a travel map itinerary was created.
